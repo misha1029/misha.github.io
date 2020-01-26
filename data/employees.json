@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ruth Wood",
+    "role": "Founder, CEO",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "contacts": [
+      "https://ru-ru.facebook.com/BMW/",
+      "https://twitter.com/bmw",
+      "https://www.instagram.com/bmw/?hl=ru",
+      "https://ru-ru.facebook.com/BMW/",
+      "https://dribbble.com/tags/bmv"
+    ],
+    "profilePicture": "./assets/images/team-1.jpg"
+  },
+  {
+    "name": "Timothy Reed",
+    "role": "Co-Founder, Developer",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "contacts": [
+      "https://ru-ru.facebook.com/BMW/",
+      "https://twitter.com/bmw",
+      "https://www.instagram.com/bmw/?hl=ru",
+      "https://twitter.com/elonmusk?lang=uk",
+      "https://dribbble.com/tags/bmv"
+    ],
+    "profilePicture": "./assets/images/team-2.jpg"
+  },
+  {
+    "name": "Victoria Valdez",
+    "role": "UI Designer",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "contacts": [
+      "https://ru-ru.facebook.com/BMW/",
+      "https://twitter.com/bmw",
+      "https://www.instagram.com/bmw/?hl=ru",
+      "https://twitter.com/elonmusk?lang=uk",
+      "https://dribbble.com/tags/bmv"
+    ],
+    "profilePicture": "./assets/images/team-3.jpg"
+  },
+  {
+    "name": "Beverly Little",
+    "role": "Data Scientist",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "contacts": [
+      "https://ru-ru.facebook.com/BMW/",
+      "https://twitter.com/bmw",
+      "https://www.instagram.com/bmw/?hl=ru",
+      "https://twitter.com/elonmusk?lang=uk",
+      "https://dribbble.com/tags/bmv"
+    ],
+    "profilePicture": "./assets/images/team-4.jpg"
+  }
+]
